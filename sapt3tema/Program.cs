@@ -10,7 +10,7 @@ namespace sapt3tema
     {
         static void Main(string[] args)
         {
-            dffdsfdf
+            Console.WriteLine("Hello word!!");
         }
 
     }
